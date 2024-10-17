@@ -1,5 +1,7 @@
 public class TextBlocks {
-
+    /**
+     * Implementado no Java 14
+     */
     public static void main(String[] args) {
         System.out.println(antes());
         System.out.println(depois());
